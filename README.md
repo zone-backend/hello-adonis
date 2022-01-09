@@ -3,7 +3,9 @@ Adonis api 服务器，数据库选用的是 MySQL
 
 # 前提
 
-电脑安装了 MySQL 5.7.35
+MySQL 5.7.35
+
+Node.js v14
 
 # 安装
 
